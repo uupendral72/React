@@ -19,6 +19,8 @@ Git : Git is a distributed version control software. it is developed and maintai
 
    5. git push -u origin main/master
 
+   github desktop: https://desktop.github.com/download/
+
 cloning , forking, branching,merging:
 
 cloning is the copy that you download from a repository
