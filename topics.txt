@@ -1,0 +1,23 @@
+JAVASCRIPT REVISION
+React Introduction
+Components
+nested Components
+props(parent to child and child to parent)
+state(useState)
+useEffect
+conditional rendering
+lists
+context API
+class Components
+life cycle methods
+hooks
+forms
+  -- controlled Components
+  -- uncontrolled Components
+libraries
+redux
+
+
+
+
+API KEY = 490d0a44b6149367570c3931b409d681
