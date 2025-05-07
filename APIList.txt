@@ -8,3 +8,5 @@ openweather -- need api key
 cricket api  -- need api key
 gpts(chatbots)  -  gemini -- need api key
 pokeapi  -- no need of api key
+
+https://verpex.com/blog/website-tips/free-public-apis-for-developers?ref=dailydev
