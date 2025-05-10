@@ -24,7 +24,14 @@ firebase
 typescript, next js
 REAL TIME PROJECT 
 
+Project Ideas:
+Movies APP (OTT)
+Audio streaming(spotify)
+News APP
+Real time chat APP (web sockets)
+Ecommerce Website
+Blog 
+Quiz
+AI related Projects
 
 
-
-API KEY = 490d0a44b6149367570c3931b409d681
