@@ -8,5 +8,10 @@ openweather -- need api key
 cricket api  -- need api key
 gpts(chatbots)  -  gemini -- need api key
 pokeapi  -- no need of api key
+https://api.spacexdata.com/v5/launches
+https://iplocate.io/api/lookup
+https://docs.github.com/en/rest?apiVersion=2022-11-28
+https://publicapis.dev/
+https://beeceptor.com/crud-api/
 
 https://verpex.com/blog/website-tips/free-public-apis-for-developers?ref=dailydev
