@@ -43,6 +43,7 @@
              https://cricketdata.org/
              https://pokeapi.co/
              https://motion.dev/docs
+             https://quickref.me/java
 
 
 
